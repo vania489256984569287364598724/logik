@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+   color:white;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQdea6kZxQVgqhyZ1jcAcV6fszpJFnsITWQ&s);
+}
+.hide {
+    display: none;
+}
+.correct {
+    background-color: green;
+    color: white;
+}
+.wrong {
+    background-color: red;
+    color: white;
+}
+h1 {
+     background-color: black;
+  color: cornsilk;
+  text-align: center;
+  border-radius: 25px;
+   margin-top:30px ;
+ padding: 10px;
+     display: inline-block;
+}
+button {
+      background-color: #fff3cd;
+  margin-top: 15px;
+  padding: 10px;
+  display: block;
+  width: 100%;
+}
+.start-screen__description {
+         background-color: black;
+  color: cornsilk;
+  text-align: center;
+  border-radius: 25px;
+   margin-top:30px ;
+ padding: 10px;
+     display: inline-block;
+
+}
+.header {
+         background-color: black;
+  color: cornsilk;
+  text-align: center;
+  border-radius: 25px;
+   margin-top:30px ;
+ padding: 10px;
+     display: inline-block;
+}
+.question-text {
+background-color: black;
+  color: cornsilk;
+  text-align: center;
+  border-radius: 25px;
+   margin-top:30px ;
+ padding: 10px;
+}
